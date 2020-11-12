@@ -1,0 +1,8 @@
+output DisplayPort-0
+off
+output eDP
+crtc 0
+mode 2160x1440
+pos 0x0
+primary
+rate 60.00

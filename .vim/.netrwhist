@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/solenb/.config/polybar/scripts/pulseaudio-rofi'
+let g:netrw_dirhist_1='/home/solenb/.config/polybar'
+let g:netrw_dirhist_0='/home/solenb/.config'
+let g:netrw_dirhist_9='/home/solenb/.config/polybar'
+let g:netrw_dirhist_8='/home/solenb/.config'
+let g:netrw_dirhist_7='/home/solenb/.config/polybar'
+let g:netrw_dirhist_6='/home/solenb/.config'
+let g:netrw_dirhist_5='/home/solenb/.i3'
+let g:netrw_dirhist_4='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/etc'
