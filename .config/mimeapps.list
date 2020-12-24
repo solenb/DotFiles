@@ -16,6 +16,8 @@ x-scheme-handler/ftp=userapp-Pale Moon.desktop;
 x-scheme-handler/http=userapp-Pale Moon.desktop;
 x-scheme-handler/https=userapp-Pale Moon.desktop;
 x-scheme-handler/mailto=userapp-Thunderbird.desktop;
+text/csv=nvim.desktop;vim.desktop;
+application/octet-stream=vlc.desktop;
 
 [Default Applications]
 application/pdf=firefox.desktop
